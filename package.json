@@ -24,11 +24,11 @@
     "@types/webpack-env": "^1.15.2",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
-    "ts-loader": "^8.0.0",
+    "ts-loader": "^8.4.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.6",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "d3-axis": "^1.0.12",
